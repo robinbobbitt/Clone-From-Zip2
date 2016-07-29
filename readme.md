@@ -1,0 +1,1 @@
+Zipped repository for testing clone functionality
